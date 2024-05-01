@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ken 👋
+
+- 🌱 I’m currently learning immersive website development
 
 <!--
 **Ken-Yeung/Ken-Yeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
